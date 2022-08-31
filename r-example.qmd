@@ -2,7 +2,6 @@
 title: "Example - R Markdown"
 author: "BDT"
 date: "2022-08-31"
-output: html_document
 ---
  
 ```{r setup, include=FALSE}
