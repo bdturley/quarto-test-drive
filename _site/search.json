@@ -312,7 +312,7 @@
     "href": "r-example.html#including-plots",
     "title": "Example - R Markdown",
     "section": "Including Plots",
-    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
+    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\nNote that the echo: false parameter was added to the code chunk to prevent printing of the R code that generated the plot."
   },
   {
     "objectID": "r-example.html#r-markdown",
