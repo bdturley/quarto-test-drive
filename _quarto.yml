@@ -42,6 +42,8 @@ website:
       - learning-more.qmd
       - href: transition-from-rmarkdown.qmd
         text: Transition from Rmd
+      - href: r-example.rmd
+        text: R Markdown
 
 
 format:
