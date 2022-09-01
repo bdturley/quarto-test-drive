@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bdturley.github.io/quarto-test-drive/index.html</loc>
-    <lastmod>2022-08-31T17:31:27.065Z</lastmod>
+    <lastmod>2022-09-01T17:39:06.951Z</lastmod>
   </url>
   <url>
     <loc>https://bdturley.github.io/quarto-test-drive/quarto-workflows/jupyter.html</loc>
-    <lastmod>2022-08-31T17:31:29.430Z</lastmod>
+    <lastmod>2022-09-01T17:39:08.199Z</lastmod>
   </url>
   <url>
     <loc>https://bdturley.github.io/quarto-test-drive/quarto-workflows/index.html</loc>
-    <lastmod>2022-08-31T17:31:29.854Z</lastmod>
+    <lastmod>2022-09-01T17:39:08.619Z</lastmod>
   </url>
   <url>
     <loc>https://bdturley.github.io/quarto-test-drive/quarto-workflows/browser.html</loc>
-    <lastmod>2022-08-31T17:31:30.222Z</lastmod>
+    <lastmod>2022-09-01T17:39:08.987Z</lastmod>
   </url>
   <url>
     <loc>https://bdturley.github.io/quarto-test-drive/quarto-workflows/rstudio.html</loc>
-    <lastmod>2022-08-31T17:31:30.690Z</lastmod>
+    <lastmod>2022-09-01T17:39:09.403Z</lastmod>
   </url>
   <url>
     <loc>https://bdturley.github.io/quarto-test-drive/learning-more.html</loc>
-    <lastmod>2022-08-31T17:31:31.054Z</lastmod>
+    <lastmod>2022-09-01T17:39:09.763Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bdturley.github.io/quarto-test-drive/r-example.html</loc>
+    <lastmod>2022-09-01T17:39:12.019Z</lastmod>
   </url>
   <url>
     <loc>https://bdturley.github.io/quarto-test-drive/transition-from-rmarkdown.html</loc>
-    <lastmod>2022-08-31T17:31:31.518Z</lastmod>
+    <lastmod>2022-09-01T17:39:12.491Z</lastmod>
   </url>
   <url>
     <loc>https://bdturley.github.io/quarto-test-drive/explore.html</loc>
-    <lastmod>2022-08-31T17:31:32.010Z</lastmod>
+    <lastmod>2022-09-01T17:39:12.947Z</lastmod>
   </url>
 </urlset>
