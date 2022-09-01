@@ -31,6 +31,11 @@ jobs:
         with:
           cache-version: 1
 
+      - name: Install rmarkdown
+        run: |
+          install.packages("rmarkdown")
+        shell: Rscript {0}
+
       - name: Publish to GitHub Pages (and render)
         uses: quarto-dev/quarto-actions/publish@v2
         with:
