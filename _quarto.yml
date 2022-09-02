@@ -3,7 +3,7 @@ project:
   
 website: 
   page-navigation: true
-  title: "Making sharable documents with Quarto" 
+  title: "Mini ESR - quarto testdrive" 
   site-url: "https://bdturley.github.io/quarto-test-drive" 
   repo-url: https://github.com/bdturley/quarto-test-drive
   repo-actions: [edit, issue]
@@ -13,19 +13,19 @@ website:
     left: "&copy; CC-By Openscapes, 2022"
     
   sidebar:
-    logo: "images/openscapes_hex.png"
+    logo: "images/iea_logo.png"
     pinned: true
     align: center
     tools: 
       - icon: globe
-        href: https://openscapes.org
-        text: "Openscapes.org"
+        href: https://www.integratedecosystemassessment.noaa.gov/regions/gulf-mexico
+        text: "NOAA IEA - Gulf of Mexico"
       - icon: github
-        href: https://github.com/openscapes/quarto-website-tutorial
-        text: "Quarto website tutorial"
+        href: https://github.com/bdturley/quarto-test-drive
+        text: "Quarto test drive repo"
       - icon: twitter
-        href: https://twitter.com/openscapes
-        text: "Openscapes Twitter"         
+        href: https://twitter.com/crabtails
+        text: "BDTurley Twitter"         
 
     style: "docked"
     search: true
